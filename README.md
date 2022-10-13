@@ -67,11 +67,12 @@ A continuación se listan las preguntas del test.
 8. Muchos días viene tarde después de trabajar porque dice tener mucho más trabajo.
 9. Has notado que últimamente se perfuma más.
 10. Se confunde y te dice que ha estado en sitios donde no ha ido contigo.
+
 A continuación se muestran los mensajes que deberá dar el programa según la puntuación obtenida.
-• Puntuación entre 0 y 10: ¡Enhorabuena! tu pareja parece ser totalmente fiel.
-• Puntuación entre 11 y 22: Quizás exista el peligro de otra persona en su vida o en su mente, aunque seguramente será algo sin importancia.
+- Puntuación entre 0 y 10: ¡Enhorabuena! tu pareja parece ser totalmente fiel.
+- Puntuación entre 11 y 22: Quizás exista el peligro de otra persona en su vida o en su mente, aunque seguramente será algo sin importancia.
 No bajes la guardia.
-• Puntuación entre 22 y 30: Tu pareja tiene todos los ingredientes para estar viviendo un romance con otra persona.
+- Puntuación entre 22 y 30: Tu pareja tiene todos los ingredientes para estar viviendo un romance con otra persona.
 Te aconsejamos que indagues un poco más y averigües que es lo que está pasando por su cabeza.
 
 ## Ejercicio 17
