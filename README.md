@@ -1,4 +1,4 @@
-# **Java Capitulo 3**
+# **Java Capitulo 4**
 
 ## Ejercicio 1
 Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.
@@ -20,7 +20,7 @@ A partir de la hora 41, se pagan a 16 euros la hora.
 Realiza un programa que resuelva una ecuación de primer grado (del tipo ax+b = 0).
 
 ## Ejercicio 6
-Realiza un programa que calcule el tiempo que tardará en caer un objeto desdeuna altura h.
+Realiza un programa que calcule el tiempo que tardará en caer un objeto desde una altura h.
 
 ## Ejercicio 7
 Realiza un programa que calcule la media de tres notas.
