@@ -12,7 +12,7 @@ public class Ejercicio18{
             primer=num/10;
         } 
         if((num>=100)&&(num<1000)){
-            primer = num / 100;
+            primer=num/100;
         } 
         if((num>=1000)&&(num<10000)){
             primer=num/1000;
